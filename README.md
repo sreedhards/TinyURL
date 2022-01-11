@@ -15,6 +15,5 @@ response wil be like http:localhost:8080/bH
 
 6) To get the number of times the tinyURL is used GET 'http://localhost:8080/stats/bH'
    response  will be " Count of requests for this URL is : 9"
-
 7) To get total number of urls GET 'http://localhost:8080/stats/ 
 "Count of tiny urls is :<total>"
